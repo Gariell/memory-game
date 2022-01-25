@@ -1,4 +1,4 @@
 
 # pet project - memory game
 
-## gh-pages: 
+## gh-pages: https://gariell.github.io/memory-game/

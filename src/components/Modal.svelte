@@ -79,7 +79,7 @@
     width: 100%;
     height: 100%;
     z-index: 10;
-    background: #ff4000de;
+    background: rgb(255, 111, 0)	
   }
 	.modal {
 		width: fit-content;
