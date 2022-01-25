@@ -44,7 +44,7 @@
             {#if bestLoop != undefined && gameMode > 0}
               <p>лучшее ваше время: <span class="time">{genTime(bestLoop)} </span></p>
             {/if} 
-            <p>Создал игру <a href="https://github.com/Gariell">https://github.com/Gariell</a></p>
+            <p>Создал игру <a href="https://github.com/Gariell">https://github.com/Gariell </a></p>
           {:else if params.action == 'gameModeSelection'} 
             <div class="gamemods-items">
               {#each params.gameMods as item}
